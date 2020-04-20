@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev | Nyakundi George</title>
-    <link>http://nyakundigeorge.github.io/</link>
+    <link>https://nyakundigeorge.github.io/</link>
     <description>Recent content on Dev | Nyakundi George</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://nyakundigeorge.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nyakundigeorge.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
